@@ -13,7 +13,7 @@
 | `M`          | Move to middle of screen         |
 | `L`        | Move to bottom of screen         |
 | `^E`       | Move  screen down one line      |
-| `^Y`       | Move screen up one linne        |
+| `^Y`       | Move screen up one line        |
 | `%`      | Move cursor to matching character |
 | `^`    | Jump to first non-blank character in the line |
 | `fx` | Jump to next occurrence of character x |
